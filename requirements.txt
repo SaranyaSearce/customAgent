@@ -1,0 +1,4 @@
+anthropic
+click
+rich
+python-dotenv
